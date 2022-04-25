@@ -1,23 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+* {
+	scroll-behavior: smooth;
+}
+body {
+	font-family: 'Open Sans', sans-serif;
+}
 #container {
-    /*display: flex;
+    display: flex;
     flex-direction: column;
     align-items: center;
 
-    */
+	margin-top: 30px;
+
+    margin-left: 10px;
+	margin-right: 10px;
+}
+
+#intro, #examples, #ethical, #future {
+	color: black;
+}
+
+h1 {
+	margin-top: 50px;
 }
 
 
 nav{ 
-	width: 1000px; 
-	display: block; 
+	width: 100%; 
+	display: block;
+	position: fixed; /* Set the navbar to fixed position */
+  	right: 5px;
+	top: 0px;
 	margin: auto; 
+	background-color: rgb(108, 153, 168);
+	padding: 15px;
+
+	
+
+	
 	
 } 
  
 nav ul{ 
 	list-style: none; 
 	margin: auto;  
-	width: 600px; 
+	width: 800px; 
 	display: block; 
 } 
  
@@ -25,6 +52,7 @@ nav ul li{
 	display:  inline-block; 
 	min-width: 190px; 
 	width: 190px; 
+	
 
     
     
@@ -34,11 +62,35 @@ nav ul li{
 nav ul a {
     text-decoration: none;
     color: black;
-    padding: 10px;
+    padding: 15px;
 }
 
 
 
 nav a:hover {
     background-color: lightgray;
+}
+
+#intro {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.header {
+	text-align: center;
+}
+
+#canada {
+	display: flex;
+	flex-direction: column;
+	justify-items: center;
+}
+
+#canada > img {
+	margin: auto;
+}
+
+.caption {
+	text-align: center;
 }
