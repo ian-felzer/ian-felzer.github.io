@@ -94,3 +94,13 @@ nav a:hover {
 .caption {
 	text-align: center;
 }
+
+#para1 {
+	display: flex;
+	flex-direction: row;
+	gap: 15px;
+}
+
+#para1 > p {
+	line-height: 2.2em;
+}
