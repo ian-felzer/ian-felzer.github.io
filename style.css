@@ -99,8 +99,16 @@ nav a:hover {
 	display: flex;
 	flex-direction: row;
 	gap: 15px;
+	padding-bottom: 40px;
+	border-bottom: 1px solid black;
 }
 
 #para1 > p {
 	line-height: 2.2em;
+}
+
+#caption2 {
+	position:relative ;
+	top: 380px;
+	left:0px;
 }
