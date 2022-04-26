@@ -32,7 +32,7 @@ nav{
   	right: 5px;
 	top: 0px;
 	margin: auto; 
-	background-color: rgb(108, 153, 168);
+	background-color: rgb(120, 173, 190);
 	padding: 15px;
 
 	
@@ -111,4 +111,19 @@ nav a:hover {
 	position:relative ;
 	top: 380px;
 	left:0px;
+}
+
+
+@media screen and (max-width:500px) {
+
+	nav {
+		display: flex;
+		flex-direction: column;
+	}
+
+	
+}
+
+blockquote {
+	font-weight: bolder;
 }
