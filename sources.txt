@@ -1,0 +1,84 @@
+                        Works Cited
+
+
+Austin, Lisa, and David Lie. “Data  Trusts  and  the  Governance  of  Smart Environments: Lessons  from  the  Failure  of Sidewalk Labs’ Urban Data Trust.” Surveillance and Society, 2021.
+
+Bhunia, Priyankar. “Updates on Smart Nation Sensor Platform- Connecting All 110,000 Lampposts in the City.” Open Gov Asia, 27 Oct. 2017, https://opengovasia.com/updates-on-smart-nation-sensor-platform-connecting-all-110000-lampposts-in-the-city-video-analytics-pilot-in-2nd-half-of-2017/.
+
+Bria, Francesca. “Our Data Is Valuable. Here’s How We Can Take That Value Back.” The Guardian, 5 Apr. 2018, https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2018%2Fapr%2F05%2Fdata-valuable-citizens-silicon-valley-barcelona.
+
+---. “Our Data Is Valuable. Here’s How We Can Take That Value Back | Francesca Bria | The Guardian.” The Guardian, The Guardian, 5 Apr. 2018, https://www.theguardian.com/commentisfree/2018/apr/05/data-valuable-citizens-silicon-valley-barcelona.
+
+CARR, CONSTANCE, and MARKUS HESSE. “Sidewalk Labs Closed down – Whither Google’s Smart City.” Regions, Informa UK Limited, 2020. Crossref, doi:10.1080/13673882.2020.00001070.
+
+“Digital Identity in Response to COVID-19.” Digital Gov Exchange, Digital Identity Working Group (DIWG), 2021, https://www.tech.gov.sg/files/media/corporate-publications/FY2021/dgx_2021_digital_identity_in_response_to_covid-19.pdf.
+
+Dou, Eva. “Facial Recognition Technology Faces Crackdown in China - The Washington Post.” Washington Post, The Washington Post, 30 July 2021, https://www.washingtonpost.com/world/facial-recognition-china-tech-data/2021/07/30/404c2e96-f049-11eb-81b2-9b7061a582d8_story.html.
+
+---. “Facial Recognition Technology Faces Crackdown in China - The Washington Post.” Washington Post, The Washington Post, 30 July 2021, https://www.washingtonpost.com/world/facial-recognition-china-tech-data/2021/07/30/404c2e96-f049-11eb-81b2-9b7061a582d8_story.html.
+
+Dourish, Paul, and Genevieve Bell. “‘Resistance Is Futile’: Reading Science Fiction alongside Ubiquitous Computing.” Personal and Ubiquitous Computing, no. 4, Springer Science and Business Media LLC, May 2013, pp. 769–78. Crossref, doi:10.1007/s00779-013-0678-7.
+
+Drechsler, Wolfgang. “Pathfinder: E-Estonia as the β-Version.” JeDEM - EJournal of EDemocracy and Open Government, no. 2, JEDEM Journal of e-Democracy and Open Government, Dec. 2018, pp. 1–22. Crossref, doi:10.29379/jedem.v10i2.513.
+
+“Estonia X-Road Open Digital Ecosystem (ODE) Case Study.” Boston Consulting, https://opendigitalecosystems.net/pdf/01-Estonia-Case-Study_vF.pdf. Accessed 19 Apr. 2022.
+
+Fussell, Sidney. “Privacy Advocates Are Criticizing Google Sidewalk Labs - The Atlantic.” The Atlantic, https://www.facebook.com/TheAtlantic/, 21 Nov. 2018, https://www.theatlantic.com/technology/archive/2018/11/google-sidewalk-labs/575551/.
+
+Geddie, Aradhana Aravindan, John. “Singapore to Test Facial Recognition on Lampposts, Stoking Privacy Fears | Reuters.” U.S., Reuters, 13 Apr. 2018, https://www.reuters.com/article/us-singapore-surveillance/singapore-to-test-facial-recognition-on-lampposts-stoking-privacy-fears-idUSKBN1HK0RV.
+
+“Google’s Sidewalk Labs Plans Massive Expansion to Waterfront Vision | The Star.” Thestar.Com, 14 Feb. 2019, https://www.thestar.com/news/gta/2019/02/14/googles-sidewalk-labs-plans-massive-expansion-to-waterfront-vision.html.
+
+Graham, Thomas. “Barcelona Is Leading the Fightback against Smart City Surveillance | WIRED UK.” WIRED UK, WIRED UK, 18 May 2018, https://www.wired.co.uk/article/barcelona-decidim-ada-colau-francesca-bria-decode.
+
+---. “Barcelona Is Leading the Fightback against Smart City Surveillance | WIRED UK.” WIRED UK, WIRED UK, 18 May 2018, https://www.wired.co.uk/article/barcelona-decidim-ada-colau-francesca-bria-decode.
+
+Hague, Brietta. “Estonia’s Digital Policies Are Ahead of Much of the Western World’s—and It’s Partly Thanks to Russian Hacking — Quartz.” Quartz, Quartz, https://qz.com/1052269/every-country-should-have-a-cyber-war-what-estonia-learned-from-russian-hacking/. Accessed 25 Apr. 2022.
+
+Han, Kirsten. “Broken Promises: How Singapore Lost Trust on Contact Tracing Privacy | MIT Technology Review.” MIT Technology Review, MIT Technology Review, 11 Jan. 2021, https://www.technologyreview.com/2021/01/11/1016004/singapore-tracetogether-contact-tracing-police/.
+
+Hawkins, Andrew J. “Alphabet’s Sidewalk Labs Strikes Deal to Turn 800 Acres of Toronto into an ‘Internet City’ - The Verge.” The Verge, The Verge, 17 Oct. 2017, https://www.theverge.com/2017/10/17/16488942/alphabet-sidewalk-labs-toronto-quayside.
+
+---. “Alphabet’s Sidewalk Labs Unveils Its High-Tech ‘City-within-a-City’ Plan for Toronto - The Verge.” The Verge, The Verge, 24 June 2019, https://www.theverge.com/2019/6/24/18715486/alphabet-sidewalk-labs-toronto-high-tech-city-within-a-city-plan.
+
+“In TraceTogether We Trust: Singapore’s Challenge with Data Governance and Ethics | Singapore Policy Journal.” Singapore Policy Journal, https://www.facebook.com/SingaporePolicyJournal, 2 Apr. 2021, https://spj.hkspublications.org/2021/04/02/in-tracetogether-we-trust-singapores-challenge-with-data-governance-and-ethics/.
+
+Jahankhani, Hamid, et al. Cyber Defence in the Age of AI, Smart Societies and Augmented Humanity. Springer Nature, 2020, p. pp 397-429.
+
+Johnston, Ryan. “Digital Privacy Concerns Will Follow Sidewalk Labs to next Venture, Says Former Consultant - StateScoop.” StateScoop, 27 May 2020, https://statescoop.com/ann-cavoukian-waterfront-toronto-digital-privacy-concerns-sidewalk-labs/.
+
+---. “Digital Privacy Concerns Will Follow Sidewalk Labs to next Venture, Says Former Consultant - StateScoop.” StateScoop, 27 May 2020, https://statescoop.com/ann-cavoukian-waterfront-toronto-digital-privacy-concerns-sidewalk-labs/.
+
+Lago, Cristina. “Singapore To Use Facial Recognition In National Digital ID System | CIO.” CIO, CIO, 11 Oct. 2018, https://www.cio.com/article/222412/singapore-to-use-facial-recognition-in-national-digital-identity-system.html.
+
+Longstaff, Simon. “Blockchain: Some Ethical Considerations - THE ETHICS CENTRE.” The Ethics Centre - Bringing Ethics to the Centre of Everyday Life, https://ethics.org.au/blockchain-some-considerations/. Accessed 24 Apr. 2022.
+
+Mark, Ryan, and Gregory Anya. “Ethics of Using Smart City AI and Big Data: The Case of Four Large European Cities.” The ORBIT Journal, no. 2, Elsevier BV, 2019, pp. 1–36. Crossref, doi:10.29297/orbit.v2i2.110.
+
+“Master Innovation & Development Plan Digital Innovation Appendix.” Quayside , Sidewalk Labs, 2019, https://quaysideto.ca/wp-content/uploads/2019/11/Sidewalk-Labs-Digital-Innovation-Appendix.pdf.
+
+Mehta, Nikita. “The Problem with Predicting Earthquakes.” Mint, mint, 16 June 2015, https://www.livemint.com/Politics/J5Hc67bQLplneAfSRjtrFN/The-problem-with-predicting-earthquakes.html.
+
+“On the Systematic Exploitation of the Estonian Data Exchange Layer X-Road for Strengthening Public-Private Partnerships | Proceedings of the 11th International Conference on Theory and Practice of Electronic Governance.” ACM Other Conferences, https://dl.acm.org/doi/pdf/10.1145/3209415.3209441. Accessed 24 Apr. 2022.
+
+Priisalu, Jaan, and Rain Ottis. “Personal Control of Privacy and Data: Estonian Experience.” Health and Technology, no. 4, Springer Science and Business Media LLC, June 2017, pp. 441–51. Crossref, doi:10.1007/s12553-017-0195-1.
+
+Ravindra, Savaram. “The Technologies That Turned Barcelona Into A Smart City - Barcinno.” Barcinno, 5 July 2018, http://www.barcinno.com/barcelona-smart-city-technologies/.
+
+“Singapore’s Smart Nation Initiative – A Policy and Organisational Perspective.” National University of Singapore, https://lkyspp.nus.edu.sg/docs/default-source/case-studies/singapores-smart-nation-initiative-final_112018.pdf?sfvrsn=354e720a_2#:~:text=Loong’s%20speech%20at%20Smart%20Nation,%2C%20November%2024%2C%202014). Accessed 19 Apr. 2022.
+
+SingPass. Singapore Ministry of Finance, https://www.tech.gov.sg/files/media/media-releases/2016/01/SingPass%20Factsheet%20%20Updated%2029%20Janpdf.pdf. Accessed 25 Apr. 2022.
+
+“Smart Nation and Digital Government Group.” Government Technology Agency, May 2017, http://www.tech.gov.sg/Media-Room/Media-Releases/2017/05/Government-to-Partner-Industry-to-Spark-Innovation-and-Build-Capabilities-in-a-Smart-Nation.
+
+Wilkinson, Sabrina. “Toronto’s Very Dumb ‘Smart City’ Project.” The Outline, 1 Nov. 2019, https://theoutline.com/post/8172/torontos-dumb-smart-city-project.
+
+Winner, Langdon. “Do Artifacts Have Politics?” Computer Ethics, Routledge, 2017, pp. 177–92, http://dx.doi.org/10.4324/9781315259697-21.
+
+Wylie, Bianca. “In Toronto, Google’s Attempt to Privatize Government Fails—For Now - Boston Review.” Boston Review, https://bostonreview.net/articles/bianca-wylie-sidewalk-labs-toronto/. Accessed 24 Apr. 2022.
+
+---. “Searching for the Smart City’s Democratic Future                          - Centre for International Governance Innovation.” Centre for International Governance Innovation, 13 Aug. 2018, https://www.cigionline.org/articles/searching-smart-citys-democratic-future/.
+
+Yu, Eileen. “Singapore Government Systems Still Weak in IT Controls | ZDNet.” ZDNet, ZDNet, 17 July 2019, https://www.zdnet.com/article/singapore-government-systems-still-weak-in-it-controls/.
+
+---. “Singapore Spruces up E-Government Platform, Touts Service Portfolio | ZDNet.” ZDNet, ZDNet, 4 Mar. 2021, https://www.zdnet.com/article/singapore-spruces-up-e-government-platform-touts-service-portfolio/.
