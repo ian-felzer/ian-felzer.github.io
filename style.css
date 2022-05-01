@@ -1,11 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 * {
 	scroll-behavior: smooth;
+
 }
 body {
 	font-family: 'Open Sans', sans-serif;
 }
 #container {
+	margin: 0px 10px 0px 10px;
+	
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -124,6 +127,35 @@ nav a:hover {
 	margin-left: 23%;
 }
 
+.img {
+	
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.centerText {
+	text-align: center;
+}
+
+.hidden {
+	display: none;
+
+}
+
+.anchor {
+	display: block;
+	 position: relative;
+	top: -250px;
+	 visibility: hidden;
+
+}
+
+a:hover {
+	color: rgb(126, 2, 2);
+}
+
 @media screen and (max-width:500px) {
 
 	nav {
@@ -136,4 +168,5 @@ nav a:hover {
 
 blockquote {
 	font-weight: bolder;
+	text-align: center;
 }
