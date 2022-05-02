@@ -7,7 +7,8 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 #container {
-	margin: 0px 10px 0px 10px;
+	margin: 0px 20px 0px 20px;
+	
 	
     display: flex;
     flex-direction: column;
@@ -35,7 +36,7 @@ nav{
   	right: 5px;
 	top: 0px;
 	margin: auto; 
-	background-color: rgb(120, 173, 190);
+	background-color: rgb(96, 183, 212);
 	padding: 15px;
 
 	
@@ -43,7 +44,28 @@ nav{
 	
 	
 } 
+
+#barcelonaImg {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
  
+
+
+#caption {
+	display: inline;
+	position: relative;
+	top: 400px;
+	right: 300px;
+	bottom: 0px;
+	text-align: none;
+	white-space: nowrap;
+}
+
+.block {
+	display: block;
+}
 nav ul{ 
 	list-style: none; 
 	margin: auto;  
@@ -103,17 +125,46 @@ nav a:hover {
 	flex-direction: row;
 	gap: 15px;
 	padding-bottom: 40px;
-	border-bottom: 1px solid black;
+	
 }
 
+
+
 #para1 > p {
-	line-height: 2.2em;
+	position: relative;
+	right: 300px;
+	
+	text-align: center;
+
+	
+}
+
+#finalP {
+	border-bottom: 1px solid black;
+	padding-bottom: 10px;
+	z-index: -1;
+}
+
+.finalP {
+	border-bottom: 1px solid black;
+	padding-bottom: 10px;
+}
+
+#firstP1 {
+	z-index: -1;
+	
+	position: relative;
+	top: 30px;
+	right: 40px;
 }
 
 #caption2 {
-	position:relative ;
-	top: 380px;
-	left:0px;
+	
+	position: relative;
+	right: 490px;
+	top: 450px;
+	white-space: nowrap;
+
 }
 
 #estonia2 {
@@ -152,9 +203,22 @@ nav a:hover {
 
 }
 
-a:hover {
-	color: rgb(126, 2, 2);
+.pos4 {
+	position: relative;
+	bottom: 40px;
 }
+
+#future {
+	position: relative;
+	bottom: 30px;
+}
+
+a:hover {
+	color: rgb(194, 10, 10);
+}
+
+
+
 
 @media screen and (max-width:500px) {
 
