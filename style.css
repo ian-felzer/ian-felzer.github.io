@@ -101,6 +101,7 @@ nav a:hover {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+	line-height: 2;
 }
 
 .header {
@@ -111,6 +112,7 @@ nav a:hover {
 	display: flex;
 	flex-direction: column;
 	justify-items: center;
+	line-height: 2;
 }
 
 #canada > img {
@@ -216,6 +218,15 @@ nav a:hover {
 
 a:hover {
 	color: rgb(194, 10, 10);
+}
+
+#source {
+	position:relative;
+	left:570px;
+}
+
+div>p {
+	line-height: 2;
 }
 
 
